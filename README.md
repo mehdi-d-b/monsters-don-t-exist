@@ -1,5 +1,8 @@
 # MONSTERS DON'T EXIST
 
+![Book cover](/images/book_cover.jpg)
+
+
 ## Author: Mehdi B.
 
 ### Description
@@ -15,7 +18,7 @@ The novel can be found in the "pdf" or "epub" folder.
  - If you liked it, feel free to share!
 
 ### If you liked it and want to buy a copy
-...
+[Buy a unique, interactive NFT of the Book on Optimism](https://highlight.xyz/mint/656f74f4198b562e76dc0c71)
 
 ### License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/).
@@ -26,7 +29,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ### Contributing
-If you wish to contribute to this book (for example, suggestions, corrections, translations), please see the 'Contributions' section for more details.
+If you wish to contribute to this book (for example, suggestions, corrections, translations), contact me or create an issue / PR.
 
 ### Contact
 You can contact me at[ https://warppast.com/mehdib](@mehdib).
